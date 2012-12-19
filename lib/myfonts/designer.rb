@@ -24,16 +24,12 @@ module MyFonts
     end
 
     def get_families
-      result = dom.css("h4 a").map do |a|
-        if a.get_attribute("href") =~ /^\/fonts/
-          a.text
-        else
-          nil
-        end
+      result = dom.css("h4 a").select do |a|
+        a.get_attribute("href") =~ /^\/fonts/
       end
-      result.compact
+      result.map do |a|
+        Family.new("http://www.myfonts.com" + a.get_attribute("href"), a.text)
+      end
     end
-
   end
-
 end

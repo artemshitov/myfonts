@@ -20,6 +20,6 @@ describe MyFonts::Designer do
 
   it "returns designer's type families" do
     @designer.families.size.should == 14
-    @designer.families.should include "Costa Dorada"
+    @designer.families[0].name.should == "Conqueror Sans™"
   end
 end
