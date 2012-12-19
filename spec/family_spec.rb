@@ -2,8 +2,6 @@
 
 require 'spec_helper'
 require 'myfonts/family'
-require 'webmock/minitest'
-require 'vcr'
 
 VCR.configure do |c|
   c.cassette_library_dir = 'spec/fixtures/vcr_cassettes'
