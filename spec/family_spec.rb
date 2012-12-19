@@ -3,11 +3,6 @@
 require 'spec_helper'
 require 'myfonts/family'
 
-VCR.configure do |c|
-  c.cassette_library_dir = 'spec/fixtures/vcr_cassettes'
-  c.hook_into :webmock
-end
-
 describe MyFonts::Family do
   before do
     VCR.use_cassette('21Cent') do
