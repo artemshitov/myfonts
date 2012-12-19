@@ -3,6 +3,8 @@ require "nokogiri"
 
 module MyFonts
   class Model
+    attr_reader :url
+
     def initialize(url)
       @url = url
     end
