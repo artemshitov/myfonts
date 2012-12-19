@@ -4,43 +4,78 @@ require "myfonts/model"
 
 module MyFonts
   class Family < Model
+    def initialize(url, name=nil)
+      @name = name
+      super(url)
+    end
+    
     def name
-      html.css("title").text.gsub(/ - (Desktop|Webfont).+/, "")
+      @name ||= get_name
     end
 
     def foundry
-      links = html.css("ul.family_metadata li a")
-      links.select{ |l| l.get_attribute("href") =~ /foundry/ }[0].text
-    end
-
-    def designers
-      links = html.css("ul.family_metadata li a")
-      designers_links = links.select{ |l| l.get_attribute("href") =~ /person/ }
-      designers_links.map do |l|
-        l.text
-      end
+      @foundry ||= get_foundry
     end
 
     def faces
-      links = html.css("h4 a").select{ |l| !l.text.empty? }
+      @faces ||= get_faces
+    end
+
+    def designers
+      @designers ||= get_designers
+    end
+
+    def design_dates
+      @design_dates ||= get_design_dates
+    end
+
+    def description
+      @description ||= get_description
+    end
+
+    def images
+      @images ||= get_images
+    end
+
+    private
+
+    def get_name
+      dom.css("title").text.gsub(/ - (Desktop|Webfont).+/, "")
+    end
+
+    def get_foundry
+      links = dom.css("ul.family_metadata li a")
+      links.select{ |l| l.get_attribute("href") =~ /foundry/ }[0].text
+    end
+
+    def get_faces
+      links = dom.css("h4 a").select{ |l| !l.text.empty? }
       links.map do |l|
         {name: l.text, path: l.get_attribute("href")[/([\w-]+)\/$/, 1]}
       end
     end
 
-    def design_dates
-      li = html.css("ul.family_metadata li")
+    def get_designers
+      links = dom.css("ul.family_metadata li a")
+      designers_links = links.select{ |l| l.get_attribute("href") =~ /person/ }
+      designers_links.map do |l|
+        Designer.new("http://www.myfonts.com" + l.get_attribute("href"), l.text)
+      end
+    end
+
+    def get_design_dates
+      li = dom.css("ul.family_metadata li")
       li = li.select { |l| l.text =~ /Design date/}
       dates = li[0].text[/(\d+(, )*)+/]
       dates.split(", ").map { |e| e.to_i }
     end
 
-    def description
-      html.css(".article_tease_container").text.gsub(/(^\s+)|(\s+$)|(\t+)/, "")
+    def get_description
+      dom.css(".article_tease_container").text.gsub(/(^\s+)|(\s+$)|(\t+)/, "")
     end
 
-    def images
-      html.text.scan(/[\d\/]+\.png/).map { |e| "http://cdn.myfonts.net/s/aw/720x360/" + e }
-    end    
+    def get_images
+      dom.text.scan(/[\d\/]+\.png/).map { |e| "http://cdn.myfonts.net/s/aw/720x360/" + e }
+    end
   end
 end
