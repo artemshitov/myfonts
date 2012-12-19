@@ -8,10 +8,10 @@ VCR.configure do |c|
   c.hook_into :webmock
 end
 
-describe Myfonts::Family do
+describe MyFonts::Family do
   before do
     VCR.use_cassette('21Cent') do
-      @myfonts = Myfonts::Family.new("http://www.myfonts.com/fonts/letterheadrussia/21-cent/")
+      @myfonts = MyFonts::Family.new("http://www.myfonts.com/fonts/letterheadrussia/21-cent/")
     end
   end
 

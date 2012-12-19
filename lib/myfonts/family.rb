@@ -1,7 +1,7 @@
 require "httparty"
 require "nokogiri"
 
-module Myfonts
+module MyFonts
   class Family
     def initialize(url)
       @html = get_html(url)
