@@ -8,7 +8,7 @@ module MyFonts
       @name = name
       super(url)
     end
-    
+
     def name
       @name ||= get_name
     end
@@ -51,7 +51,7 @@ module MyFonts
     def get_faces
       links = dom.css("h4 a").select{ |l| !l.text.empty? }
       links.map do |l|
-        {name: l.text, path: l.get_attribute("href")[/([\w-]+)\/$/, 1]}
+        Face.new("http://www.myfonts.com" + l.get_attribute("href"), l.text)
       end
     end
 
