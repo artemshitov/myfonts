@@ -1,7 +1,10 @@
 require "myfonts/model"
+require "myfonts/previewable"
 
 module MyFonts
   class Face < Model
+    include Previewable
+
     def initialize(url, name=nil)
       @name = name
       super(url)

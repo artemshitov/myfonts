@@ -1,9 +1,12 @@
 require "httparty"
 require "nokogiri"
 require "myfonts/model"
+require "myfonts/previewable"
 
 module MyFonts
   class Family < Model
+    include Previewable
+
     def initialize(url, name=nil)
       @name = name
       super(url)

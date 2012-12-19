@@ -21,4 +21,10 @@ describe MyFonts::Face do
   it "references correct family" do
     @face.family.name.should == "21 Cent"
   end
+
+  it "returns correct preview image url" do
+    VCR.use_cassette "TestDrive-Face" do
+      @face.preview.should =~ /http:\/\/origin\.myfonts\.net/
+    end
+  end
 end

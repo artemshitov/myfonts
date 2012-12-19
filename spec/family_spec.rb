@@ -41,4 +41,10 @@ describe MyFonts::Family do
     i.should include "http://cdn.myfonts.net/s/aw/720x360/99/0/50813.png"
     i.size.should == 8
   end
+
+  it "returns correct preview image url" do
+    VCR.use_cassette "TestDrive-Family" do
+      @family.preview.should =~ /http:\/\/origin\.myfonts\.net/
+    end
+  end
 end

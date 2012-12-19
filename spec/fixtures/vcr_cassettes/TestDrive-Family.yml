@@ -1,0 +1,41 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: http://www.myfonts.com/widgets/testdrive/testdrive-ajax.php?bg=ffffff&browser%5B0%5D=mac_106_firefox_3_6&fg=000000&goodies=ot.liga&i%5B0%5D=letterheadrussia/21-cent,,720&seed=0&size=72&src=custom&tab=desktop&text=The%20little%20brown%20fox%20jumps%20over%20the%20lazy%20dog&w=720
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.2.5
+      Date:
+      - Wed, 19 Dec 2012 18:01:56 GMT
+      Content-Type:
+      - application/json
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      P3p:
+      - CP="NON DSP COR OUR OTPo OTC"
+      X-Ua-Compatible:
+      - chrome=1
+      Set-Cookie:
+      - apisession=a3c162f43a53a17ca068b338508a6cce; expires=Thu, 20-Dec-2012 18:01:56
+        GMT; path=/
+      - testdrive=c%3DThe%2Blittle%2Bbrown%2Bfox%2Bjumps%2Bover%2Bthe%2Blazy%2Bdog%26f%3Dcustom;
+        path=/
+    body:
+      encoding: US-ASCII
+      string: ! '["<img  class=\"fontsample liveupdate\" src=\"http:\/\/origin.myfonts.net\/118\/fs\/u\/0b\/c02e284a30bad83b1a2b6b52ca4648.gif\"
+        style=\"border-style:none;width:692px;height:68px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">"]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 18:02:02 GMT
+recorded_with: VCR 2.3.0
