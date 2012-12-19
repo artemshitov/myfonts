@@ -5,7 +5,8 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Artem Shitov"]
   gem.email         = ["inbox@artemshitov.ru"]
   gem.summary       = "Ruby interface to MyFonts"
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/artemshitov/myfonts"
+  gem.description   = "Gem allows to fetch info about fonts hosted on MyFonts"
 
   gem.add_development_dependency "rspec"
   gem.add_development_dependency "webmock"
