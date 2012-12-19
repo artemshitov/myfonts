@@ -1,0 +1,251 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.myfonts.com/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.2.5
+      Date:
+      - Wed, 19 Dec 2012 16:48:23 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      P3p:
+      - CP="NON DSP COR OUR OTPo OTC"
+      X-Ua-Compatible:
+      - chrome=1
+      Set-Cookie:
+      - apisession=76b6e2bbd195f41b6b7452b064b4810b; expires=Thu, 20-Dec-2012 16:48:22
+        GMT; path=/
+      X-Pingback:
+      - http://www.myfonts.com/trackback/pingback
+      X-Json:
+      - ! '{"updated":false}'
+    body:
+      encoding: US-ASCII
+      string: ! "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"
+        \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n<head>\n\n<meta http-equiv=\"Content-type\"
+        content=\"text/html; charset=UTF-8\">\n<meta name=\"description\" content=\"21
+        Cent Condensed Ultra Light Italic font by Letterhead Studio-YG, from $45.00\">\n\n\n<title>21
+        Cent Condensed Ultra Light Italic - Desktop font &laquo; MyFonts</title>\n\n\n<script
+        type='text/javascript'>\n\tvar logged_in = false;\n</script>\n\n\n<script
+        type='text/javascript' src='/s/jscache/live.a28be327ae8e21447e50a049484c46bc.js'></script>\n\n\n\n<link
+        rel='stylesheet' type='text/css' href='/s/jscache/live.ba303371671d9c2230e1c89a34d0fc25.css'>\n<link
+        rel='stylesheet' type='text/css' href='//your.myfonts.net/AJ8htsSJTo/css'>\n\n\n<!--[if
+        IE]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://cdn.myfonts.net/s/css/ie_bugfix.css\"
+        />\n<![endif]-->\n\n\n<!-- .30.103 -->\n<!-- id: 195934 -->\n\n\n\n\n<!--
+        trackbacks \n <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+        \            xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n             xmlns:trackback=\"http://madskills.com/public/xml/rss/module/trackback/\">\n
+        \   <rdf:Description\n        rdf:about=\"http://www.myfonts.com/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/\"\n
+        \       dc:identifier=\"http://www.myfonts.com/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/\"\n
+        \       dc:title=\"MyFonts: 21 Cent Condensed Ultra Light Italic - Desktop
+        font\"\n        trackback:ping=\"http://www.myfonts.com/trackback/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/\"
+        />\n    </rdf:RDF>\n-->\n\n<link rel=\"pingback\" href=\"http://www.myfonts.com/trackback/pingback\">\n<link
+        rel=\"icon\" type=\"image/png\" href=\"http://cdn.myfonts.net/s/images/logo/hand-black-16x16-trans.png\">\n<link
+        rel=\"search\" type=\"application/opensearchdescription+xml\" title=\"MyFonts
+        Search\" href=\"/searchplugin.xml\">\n\n<!-- RSS -->\n\n<script type=\"text/javascript\">\nvar
+        _gaq = _gaq || [];\n_gaq.push(['_setAccount', 'UA-497472-4']);\n_gaq.push(['_trackPageview']);\n\n\n
+        \ (function() {\n    var ga = document.createElement('script'); ga.type =
+        'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol
+        ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var
+        s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+        s);\n  })();\n\n</script>\n\n    \n</head>\n\n<body id='pagebody'>\n<a name=\"top_of_page\"></a>\n<div
+        style='position:fixed;top:0px;left:0px;background-color:white;padding:3px;display:none;z-index:2000;max-height:100%;overflow:auto;'
+        id='chris_debug'></div><div id='myfonts_container'>\n<div id='myfonts_header'
+        class='robots-nocontent'>\n\t<div id='header_user_bar'>\n\t\t<div id='header_user_login'>\n\t\t\t<div
+        class=\"userbar_tab header_tab\" id=\"mystuff_tab\">\n\t\t\t\t<a class=\"userbar_tab
+        header_tab\" id='header_login_link' href=\"https://www.myfonts.com/secure/login/\"><img
+        src=\"http://cdn.myfonts.net/s/images/layout/options-user.gif\" width=\"14\"
+        height=\"16\" border=\"0\" alt='user'> <span id='header_login_username'>Sign
+        in</span></a>&nbsp;<img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_user_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t\t\t<ul class='nav_menu'>\n\t\t\t\t\t<li><a
+        href=\"/cart/\">Cart</a></li>\n\t\t\t\t\t<li><a href=\"/my/quotes/\">Price
+        quotes</a></li>\n\t\t\t\t\t<li><a href=\"/my/orders/\">Order history &amp;
+        downloads</a></li>\n\t\t\t\t\t<li><a href=\"/my/settings/\">Account settings</a></li>\n\t\t\t\t\t<li><a
+        href=\"/my/tags/\">Tags</a></li>\n\t\t\t\t\t<li><a href=\"/my/albums/\">Albums</a></li>\n\t\t\t\t\t<li><a
+        href=\"/my/ratings/\">Ratings</a></li>\n\t\t\t\t\t<li><a href=\"/my/uploads/\">Gallery
+        uploads</a></li>\n\t\t\t\t\t<li><a href=\"/my/wtf/\">WhatTheFont forum posts</a></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        id='header_sign_out'><a href=\"https://www.myfonts.com/secure/logout/\">Sign
+        out</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t\t<div id='header_cart'>\n\t\t\t<a
+        href='/cart/' class='opener'><img src=\"/s/images/layout/options-cart.gif\"
+        alt='cart' id=\"cart_image\">\n<span id='cart_text'>0 items, $0.00</span></a>\n<script
+        type='text/javascript'>\n\twindow.mfCartSkuSetIDs = $A([  ]);\n\twindow.mfCartDesktopSkuSetIDs
+        = $A([  ]);\n\twindow.mfCartWebfontSkuSetIDs = $A([  ]);\n\n\twindow.mfCartTotals
+        = $H({\n\t\t\t'cart_subtotal': \"<span class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_tax':
+        \"<span class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_shipping': \"<span
+        class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_total': \"<span class='regular-price'>N\\/A<\\/a>\"\t\t});\n\n\twindow.mfSkuSetPrices
+        = $H({\n\t\t});\n\n\t\n\tupdateCartPricesOnPage();\n\n</script>\n<script type='text/javascript'>Behaviour.apply('cart');</script>\n\n\t\t</div>\n\t\t<div
+        id='header_help'>\n\t\t\t<a href='/help/'><img src=\"http://cdn.myfonts.net/s/images/layout/options-help.gif\"
+        width=\"10\" height=\"16\" border=\"0\" alt='help'>\n\t\t\tHelp</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        id='header_logotype'>\n\t\t<a href='/'>\n<img src='/s/images/logo/header_logo.png'
+        width='' height='' id='header_logo_img'>\n\n<script type='text/javascript'>\n\nif(window.devicePixelRatio!==undefined
+        && window.devicePixelRatio>1)\n\t$('header_logo_img').src = '/s/images/logo/header_logo_ret.png';\n\n</script>\n\n\n\t</div>\n\t\n\t<div
+        class=\"main_tab header_tab\" id=\"fonts_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/fonts/\">Find Fonts</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t\t\t\t<li><a
+        href='/search/'>Advanced Search</a></li>\n\t        <li><a href=\"/whatsnew/\">What&rsquo;s
+        New</a></li>\n\t\t\t<li><a href=\"/bestsellers/\">Best Sellers</a></li>\n\t\t\t<li><a
+        href=\"/hotnewfonts/\">Hot New Fonts</a></li>\n\t\t\t<li><a href=\"/search/is_webfont:true/fonts/\">Webfonts</a></li>\n\t\t\t<li><a
+        href=\"/WhatTheFont/\">WhatTheFont</a></li>\n\t\t\t<li><a href=\"/tags/\">Tags</a></li>\n\t\t\t<li><a
+        href=\"/languages/\">Languages</a></li>\n\t\t\t<li><a href=\"/category/\">Typographic
+        Categories</a></li>\n\t\t\t<li><a href=\"/specials/\">Special Offers</a></li>\n\t\t\t\t\t\t<li><a
+        href=\"/random/family/1317094080\">Surprise Me</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"wtf_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/WhatTheFont/\">WhatTheFont</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t<li><a
+        href=\"/WhatTheFont/\">WhatTheFont</a></li>\n\t\t\t<li><a href=\"/WhatTheFont/forum/\">WhatTheFont
+        Forum</a></li>\n\t\t\t<li><a href='/WhatTheFont/mobile/'>WhatTheFont Mobile</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"more_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/more/\">More</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t\t\t\t<li><a
+        href='http://webfonts.myfonts.com/'>Webfont Showcase</a></li> \n\t\t\t\t\t\t<li><a
+        href='/fontmap/'>Live Sales Map</a></li> \n\t\t\t<li><a href='http://www.facebook.com/pages/MyFonts/176253978685'>Facebook</a></li>
+        \n\t\t\t<li><a href='http://twitter.com/MyFonts'>Twitter</a></li> \n\t\t\t<li><a
+        href='https://www.myfonts.com/secure/giftcerts/'>Gift Certificates</a></li>\n\t\t\t<li><a
+        href='/games/tag/'>The Tag Game</a></li> \n\t\t\t<li><a href='/newsletters/'>Newsletters</a></li>\n\t\t\t<li><a
+        href='/feedback/'>Feedback</a></li>\n\t\t\t<li><a href='/Contact'>Contact
+        us</a></li>\n\t\t\t<li><a href='/info/prospectus/'>Sell Your Fonts</a></li>\n\t\t\t<li><a
+        href='/affiliate/'>Affiliate Program</a></li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li><a
+        href='/about/'>About Us</a></li>\n\t\t\t<li><a href='/jobs/'>Jobs</a></li>\n\t\t\t<li><a
+        href='/info/terms-and-conditions/'>Fine Print &amp; Privacy Policy</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"search_tab\">\n\t\t<form id='header_search_form'
+        method='get' action='/search'>\n\t\t\t<input id=\"search_box\" name=\"q\"
+        size=\"15\" type=\"text\" placeholder=\"Search\"><input type='image' id=\"search_button\"
+        src=\"http://cdn.myfonts.net/s/images/layout/search_go-roll.png\" value=\"go\"
+        alt='go'>\n\t \t</form>\n\t</div>\n</div>\n\n<div id='myfontsBody'>\n\n\n<script
+        type='text/javascript'>Behaviour.apply('header');</script>\n\n\n\r\n<div id='addToAlbumMenu'
+        style='display:none'>\r\n    <div id=\"addToAlbumControls\">\r\n    \r\n\t\t<div
+        id=\"addToAlbumMenuTitle\">Choose an album below, or <a id=\"createAlbum\"
+        href='#'>create a new album</a>.</div>\r\n\t\r\n\t\t<div id='addToAlbumMenuBody'>Loading...</div>\r\n\r\n\t\t<div
+        id='addToAlbumMenuCancel'><input class='cancel' type='button' value='Cancel'></div>\r\n\r\n
+        \   </div>    \r\n</div>\r\n\r\n<form method='post' action='/widgets/fontalbums/ajaxaddtoalbum.php'
+        id=\"addToAlbumMenuNewAlbum\" style=\"display: none;\">\r\n\t<input type='hidden'
+        name='aid' value='new'>\r\n\t<div class=\"smalltext\">New album name: <input
+        type='text' name='name'></div>\r\n\t<div><input type='submit' value='Create
+        album'> <input type='reset' id=\"newAlbumToggleClose\" value='Cancel'></div>\r\n</form>\r<script
+        type='text/javascript'>Behaviour.apply('fontalbums');</script>\n\n\n\n<div
+        class='columns two_column_layout' id='stylepage'>\n\n\t<div id='styleheader'>\n\t\t\n\t\t<ul
+        id='headcrumbs'>\n\t<li><a href='/fonts/'>Find Fonts</a>&nbsp;&gt;</li>\n\t<li><a
+        href='/foundry/LHS-YG/'>Letterhead Studio-YG</a>&nbsp;&gt;</li>\n\t<li><a
+        href='/fonts/letterheadrussia/21-cent/'>21 Cent</a>&nbsp;&gt;</li>\n\t<li
+        class='maincrumb'><h1><img  class=\"fontsample\" src=\"http://origin.myfonts.net/114/fs/u/86/48103eb2f2c982644fe07a17ed9961.gif\"
+        style=\"border-style:none;width:566px;height:52px;\" alt=\"21 Cent Condensed
+        Ultra Light Italic\" title=\"21 Cent Condensed Ultra Light Italic\"><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' style=\"vertical-align:top; padding-top:20px\"></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h1>\n\n</li>\n</ul>\n\n\t\t\t\t\t\t\t\t\n\t</div>\n\t\n\t\n\t
+        \  <div class=\"main_column\">\n\n  <div class='autobox-with-tabs'>\n\n\t<div
+        class='local-tabs'>\n\t\t\t\t<div id='localtab_waterfall' class='local-tab
+        active'>Waterfall</div>\t\t\t\n\t\t\t\t\t<div id='localtab_glyphs' class='local-tab
+        inactive'><a href='/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/glyphs.html'>Glyphs</a></div>\t\t\t\n\t\t\t\t\t<div
+        id='localtab_gallery' class='local-tab inactive'><a href='/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/gallery.html'>Webfont
+        gallery</a></div>\t\t\t\n\t\t\t\t\t<div id='localtab_preview' class='local-tab
+        inactive'><a href='/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/preview.html'>Webfont
+        preview</a></div>\t\t\t\n\t\t\t\t\t<div id='localtab_buy' class='local-tab
+        inactive'><a href='/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/buy.html'>Buying
+        choices</a></div>\t\t\t\n\t\t\t\t\t<div id='localtab_specs' class='local-tab
+        inactive'><a href='/fonts/letterheadrussia/21-cent/cond-ultra-light-ital/specs.html'>Tech
+        specs</a></div>\t\t\t\n\t\t</div>\n\n\t<div class='autobox'>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t<div
+        id=\"cart_buttons\">\n\t\t<div id=\"add_family_to_cart\">\n\t\t<h3>Buy it!</h3>\n\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"clearfix cart_buttons_buyit\">\n\t\t\t\t<div class='cart_buttons_buyit_desc'>\n\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span></span>\n\t\t\t\t</div>\n\t\t\t\t<div
+        class='cart_buttons_buyit_button'><a href=\"/cart/add?add=1&amp;i[0][id]=328637\"
+        class=\"add_to_cart\"><img class='cart_button' align='absmiddle' style='float:right;'
+        alt='add font to cart' src=\"http://cdn.myfonts.net/s/images/iconsets/myfonts/add_to_cart-over.gif\"></a></div>\t\t\t\n\t\t\t</div>\t\t\t\n\t\t\t\t</div>\t\t\n\t\t</div>\n\t\n\t\n\t\t<div
+        class='style_waterfall_row'><div class='style_waterfall_full_cell'>\n\t\t\t144
+        pt<br>\n\t\t\t<img  class=\"fontsample liveupdate noresize pointsize_144\"
+        src=\"http://origin.myfonts.net/114/fs/u/59/e108d6bf2a50f9dc29b3cc4d6a5cf2.gif\"
+        style=\"border-style:none;width:690px;height:146px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_144\" src=\"http://origin.myfonts.net/114/fs/u/de/c5f08cee819fddf25612a175b206a9.gif\"
+        style=\"border-style:none;width:718px;height:146px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t</div></div>\n\t\t\n\t\t<div class='style_waterfall_row'><div
+        class='style_waterfall_full_cell'>\n\t\t\t72 pt<br>\n\t\t\t<img  class=\"fontsample
+        liveupdate noresize pointsize_72\" src=\"http://origin.myfonts.net/114/fs/u/77/27d7b4db3b811ca3ef5ea3be26c3fd.gif\"
+        style=\"border-style:none;width:720px;height:80px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_72\" src=\"http://origin.myfonts.net/114/fs/u/af/7f03e61ee9418b529ff4066e727b64.gif\"
+        style=\"border-style:none;width:720px;height:80px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\t\t\t\n\t\t</div></div>\n\t\t\n\t\t<div class='style_waterfall_row'><div
+        class='style_waterfall_full_cell'>\n\t\t\t48 pt<br>\n\t\t\t<img  class=\"fontsample
+        liveupdate noresize pointsize_48\" src=\"http://origin.myfonts.net/114/fs/u/4e/1c07a072a268ab79f7d657a963dfc4.gif\"
+        style=\"border-style:none;width:720px;height:58px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_48\" src=\"http://origin.myfonts.net/114/fs/u/bd/5001fbfdfb10e224ffeec03cb68329.gif\"
+        style=\"border-style:none;width:716px;height:60px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\t\t\t\n\t\t</div></div>\n\t\t\n\t\t\n\t\t<div class='style_waterfall_row
+        clearfix'>\n\t\t\t<div class='style_waterfall_half_cell'>\n\t\t\t36 pt<br>\n\t\t\t<img
+        \ class=\"fontsample liveupdate noresize pointsize_36\" src=\"http://origin.myfonts.net/114/fs/u/ea/7f94238111a327c98a3603c11fa1e1.gif\"
+        style=\"border-style:none;width:348px;height:46px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_36\" src=\"http://origin.myfonts.net/114/fs/u/63/b7965a2d0763b3a51f54a0cd043fc8.gif\"
+        style=\"border-style:none;width:348px;height:46px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\t\t\t\n\t\t\t</div>\n\t\t\t<div class='style_waterfall_half_cell
+        style_waterfall_half_cell_right'>\n\t\t\t14 pt<br>\n\t\t\t<img  class=\"fontsample
+        liveupdate noresize pointsize_14\" src=\"http://origin.myfonts.net/114/fs/u/0b/fd84416b12133679b793fa7abc6247.gif\"
+        style=\"border-style:none;width:348px;height:76px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div class='style_waterfall_row
+        clearfix'>\n\t\t\t<div class='style_waterfall_half_cell'>\n\t\t\t24 pt<br>\n\t\t\t<img
+        \ class=\"fontsample liveupdate noresize pointsize_24\" src=\"http://origin.myfonts.net/114/fs/u/0a/ba6e1bb485de9987fda54773a2a6d1.gif\"
+        style=\"border-style:none;width:348px;height:34px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_24\" src=\"http://origin.myfonts.net/114/fs/u/6f/1627afa9031a9985df181565a23239.gif\"
+        style=\"border-style:none;width:348px;height:62px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\t\t\t\n\t\t\t</div>\n\t\t\t<div class='style_waterfall_half_cell
+        style_waterfall_half_cell_right'>\n\t\t\t12 pt<br>\n\t\t\t<img  class=\"fontsample
+        liveupdate noresize pointsize_12\" src=\"http://origin.myfonts.net/114/fs/u/f9/7fc94bbc11ac8a176f0c923b5e4fd1.gif\"
+        style=\"border-style:none;width:348px;height:82px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t</div>\n\t\t</div>\t\t\t\n\n\t\t<div class='style_waterfall_row
+        clearfix'>\n\t\t\t<div class='style_waterfall_half_cell'>\n\t\t\t18 pt<br>\n\t\t\t<img
+        \ class=\"fontsample liveupdate noresize pointsize_18\" src=\"http://origin.myfonts.net/114/fs/u/d0/1faf90e211e271f55c359d595d7e05.gif\"
+        style=\"border-style:none;width:348px;height:30px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t<img  class=\"fontsample liveupdate noresize
+        pointsize_18\" src=\"http://origin.myfonts.net/114/fs/u/15/0f63841c6af3c21f5334ae57725897.gif\"
+        style=\"border-style:none;width:348px;height:52px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\t\t\t\n\t\t\t</div>\n\t\t\t<div class='style_waterfall_half_cell
+        style_waterfall_half_cell_right'>\n\t\t\t10 pt<br>\n\t\t\t<img  class=\"fontsample
+        liveupdate noresize pointsize_10\" src=\"http://origin.myfonts.net/114/fs/u/0b/33c0f5c26a2cade031c37ee7b77d50.gif\"
+        style=\"border-style:none;width:348px;height:72px;\" alt=\"Preview Image\"
+        title=\"Preview Image\">\n\t\t\t</div>\n\t\t</div>\n\t\t\t\n\t\t\t\t\n\n\t\t\t\n\t</div>\n</div>
+        \ <!--  end autobox-with-tabs  -->\n\t\n\n\t</div><!-- end main column -->\n\n\t<div
+        class=\"side_column align-with-tabs\">\n\t\t\t\n<div class='autobox clearfix'
+        id=\"autobox0\">\n\n<h3>Albums</h3>\n\n\n\n<a href=\"/ajax-server/addtoalbum?type=FontStyle&amp;id=195934\"
+        id=\"addToAlbum_FontStyle_195934\" class=\"add_to_album\"><img width=96 \nheight=31
+        alt='add to album' src=\"http://cdn.myfonts.net/s/images/iconsets/myfonts/big/add_style_to_album-roll.png\"
+        class='rollover'></a>\n\n</div>\n\t\t<div class='autobox minibrowser' id=\"minibrowser_random_1888681895\">\n\t<h3>Family
+        members</h3>\n\n\n\n\t<div class='character_gallery'>\n\t\t<div class='character_tile'></div>\n\t\t<div
+        class='character_tile'></div>\n\t\t<div class='character_tile'></div>\n\t\t<div
+        class='character_tile'></div>\n\t\t<div class='character_tile'></div>\n\t</div>\n\t\n\t<div
+        class='scrollbar'>\n\t\t<img class='scroll_prev' src='http://cdn.myfonts.net/s/w/minibrowser/prev.png'
+        alt='prev'>\n\t\t<div class='scrollbar_background'>\n\t\t\t<div class='gnubbel'
+        style='display:none;'>&nbsp;</div>\n\t\t</div>\n\t\t<img class='scroll_next'
+        src='http://cdn.myfonts.net/s/w/minibrowser/next.png' alt='next'>\n\t</div>\n\n\t<div
+        class='browse_all'>\n\t\t\t<a href='/fonts/letterheadrussia/21-cent/'>view
+        all 10 styles</a>\n\t\t</div>\n</div>\n\n<script type='text/javascript'>\n\n\tEvent.observe(Prototype.Browser.WebKit
+        ? window : document,Prototype.Browser.WebKit ? 'load' : 'dom:loaded',function()
+        {\n\n\t\twindow.minibrowser_minibrowser_random_1888681895 = new minibrowserWidget('minibrowser_random_1888681895',195934,105550,\"\");\t\n\t\twindow.minibrowser_minibrowser_random_1888681895.displayTiles();\n\t\n\t});\n\n</script><script
+        type='text/javascript'>Behaviour.apply('minibrowser');</script>\n\n\t\t</div>\n\n</div>\n<script
+        type='text/javascript'>Behaviour.apply('fontalbums');</script>\n\n\n</div><!--
+        end myfontsBody -->\n<div id='myfontsFooter' class='robots-nocontent'>&nbsp;</div>\n</div><!--
+        end of myfonts_container -->\n\n<div id='myfontsLegal'>\n\tCopyright &copy;
+        1999-2012 MyFonts Inc. \n\t| <b><a href=\"/info/terms-and-conditions/#Privacy\">Privacy
+        Policy</a></b>\n\t| <a href=\"http://facebook.com/MyFonts\">Facebook</a>\n\t|
+        <a href=\"http://twitter.com/MyFonts\">Twitter</a>\n\t | <a href='#getshorturl'
+        id='footer_short_url'>Get short URL</a></div>\n\n\n\n\n\n\n<!--\nRuntime:
+        \    0.87841701507568 seconds \nFS requests: 16    \nDB queries:  192.168.30.200:
+        20\n             192.168.30.200:3307: 4\n             192.168.30.114: 32\n
+        \            192.168.30.118: 24\n                       \n-->\n\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:30 GMT
+recorded_with: VCR 2.3.0
