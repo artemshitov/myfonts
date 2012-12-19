@@ -4,9 +4,13 @@ require 'spec_helper'
 require 'myfonts/family'
 
 describe MyFonts::Family do
-  before do
+  before :all do
+    @myfonts = MyFonts::Family.new("http://www.myfonts.com/fonts/letterheadrussia/21-cent/")
+  end
+
+  around :each do |test|
     VCR.use_cassette('21Cent') do
-      @myfonts = MyFonts::Family.new("http://www.myfonts.com/fonts/letterheadrussia/21-cent/")
+      test.run
     end
   end
 
@@ -15,7 +19,8 @@ describe MyFonts::Family do
   end
 
   it "returns correct designers list" do
-    @myfonts.designers.should == ["Yuri Gordon"]
+    @myfonts.designers.size.should == 1
+    @myfonts.designers[0].name.should == "Yuri Gordon"
   end
 
   it "returns correct list of faces" do
