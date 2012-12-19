@@ -5,8 +5,12 @@ require 'myfonts/designer'
 
 describe MyFonts::Designer do
   before do
+    @designer = MyFonts::Designer.new("http://www.myfonts.com/person/yuri-gordon/")
+  end
+
+  around do |test|
     VCR.use_cassette('YuriGordon') do
-      @designer = MyFonts::Designer.new("http://www.myfonts.com/person/yuri-gordon/")
+      test.run
     end
   end
 
