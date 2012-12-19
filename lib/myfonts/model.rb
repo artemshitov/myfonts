@@ -4,16 +4,16 @@ require "nokogiri"
 module MyFonts
   class Model
     def initialize(url)
-      @html = get_html(url)
+      @url = url
     end
 
-    def html
-      @html
+    def dom
+      @dom ||= get_dom(@url)
     end
 
     private
 
-    def get_html(url)
+    def get_dom(url)
       url.sub!(/\/*$/, "/")
       myfonts_page = HTTParty.get(url)
       Nokogiri::HTML(myfonts_page.body)
