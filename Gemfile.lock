@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    MyFonts (0.0.2)
+    myfonts (0.0.4)
       httparty
       nokogiri
 
@@ -34,7 +34,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  MyFonts!
+  myfonts!
   rspec
   vcr
   webmock
