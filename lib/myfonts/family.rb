@@ -1,5 +1,3 @@
-require "httparty"
-require "nokogiri"
 require "myfonts/model"
 require "myfonts/previewable"
 
