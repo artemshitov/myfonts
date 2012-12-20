@@ -1,0 +1,776 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.myfonts.com/foundry/LHS-YG/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.2.5
+      Date:
+      - Thu, 20 Dec 2012 14:33:32 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      P3p:
+      - CP="NON DSP COR OUR OTPo OTC"
+      X-Ua-Compatible:
+      - chrome=1
+      Set-Cookie:
+      - apisession=24eaa17fe658ba5083a5d8aca36743c9; expires=Fri, 21-Dec-2012 14:33:31
+        GMT; path=/
+      X-Pingback:
+      - http://www.myfonts.com/trackback/pingback
+      X-Json:
+      - ! '{"updated":false}'
+    body:
+      encoding: ASCII-8BIT
+      string: ! "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"
+        \"http://www.w3.org/TR/html4/loose.dtd\">\n<html>\n<head>\n\n<meta http-equiv=\"Content-type\"
+        content=\"text/html; charset=UTF-8\">\n<meta name=\"description\" content=\"Font
+        foundry in Russia with 97 fonts starting at $15.00, including Conqueror Sans™\">\n\n\n<title>Letterhead
+        Studio-YG &laquo; MyFonts</title>\n\n\n<script type='text/javascript'>\n\tvar
+        logged_in = false;\n</script>\n\n\n<script type='text/javascript' src='/s/jscache/live.a28be327ae8e21447e50a049484c46bc.js'></script>\n\n\n\n<link
+        rel='stylesheet' type='text/css' href='/s/jscache/live.ba303371671d9c2230e1c89a34d0fc25.css'>\n<link
+        rel='stylesheet' type='text/css' href='//your.myfonts.net/AJ8htsSJTo/css'>\n\n\n<!--[if
+        IE]>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://cdn.myfonts.net/s/css/ie_bugfix.css\"
+        />\n<![endif]-->\n\n\n<!-- .30.108 -->\n<!-- id: 313 -->\n\n\n\n\n<!-- trackbacks
+        \n <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n             xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+        \            xmlns:trackback=\"http://madskills.com/public/xml/rss/module/trackback/\">\n
+        \   <rdf:Description\n        rdf:about=\"http://www.myfonts.com/foundry/LHS-YG/\"\n
+        \       dc:identifier=\"http://www.myfonts.com/foundry/LHS-YG/\"\n        dc:title=\"MyFonts:
+        Letterhead Studio-YG\"\n        trackback:ping=\"http://www.myfonts.com/trackback/foundry/LHS-YG/\"
+        />\n    </rdf:RDF>\n-->\n\n<link rel=\"pingback\" href=\"http://www.myfonts.com/trackback/pingback\">\n<link
+        rel=\"icon\" type=\"image/png\" href=\"http://cdn.myfonts.net/s/images/logo/hand-black-16x16-trans.png\">\n<link
+        rel=\"search\" type=\"application/opensearchdescription+xml\" title=\"MyFonts
+        Search\" href=\"/searchplugin.xml\">\n\n<!-- RSS -->\n\n<script type=\"text/javascript\">\nvar
+        _gaq = _gaq || [];\n_gaq.push(['_setAccount', 'UA-497472-4']);\n_gaq.push(['_trackPageview']);\n\n\n
+        \ (function() {\n    var ga = document.createElement('script'); ga.type =
+        'text/javascript'; ga.async = true;\n    ga.src = ('https:' == document.location.protocol
+        ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n    var
+        s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+        s);\n  })();\n\n</script>\n\n    \n</head>\n\n<body id='pagebody'>\n<a name=\"top_of_page\"></a>\n<div
+        style='position:fixed;top:0px;left:0px;background-color:white;padding:3px;display:none;z-index:2000;max-height:100%;overflow:auto;'
+        id='chris_debug'></div><div id='myfonts_container'>\n<div id='myfonts_header'
+        class='robots-nocontent'>\n\t<div id='header_user_bar'>\n\t\t<div id='header_user_login'>\n\t\t\t<div
+        class=\"userbar_tab header_tab\" id=\"mystuff_tab\">\n\t\t\t\t<a class=\"userbar_tab
+        header_tab\" id='header_login_link' href=\"https://www.myfonts.com/secure/login/\"><img
+        src=\"http://cdn.myfonts.net/s/images/layout/options-user.gif\" width=\"14\"
+        height=\"16\" border=\"0\" alt='user'> <span id='header_login_username'>Sign
+        in</span></a>&nbsp;<img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_user_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t\t\t<ul class='nav_menu'>\n\t\t\t\t\t<li><a
+        href=\"/cart/\">Cart</a></li>\n\t\t\t\t\t<li><a href=\"/my/quotes/\">Price
+        quotes</a></li>\n\t\t\t\t\t<li><a href=\"/my/orders/\">Order history &amp;
+        downloads</a></li>\n\t\t\t\t\t<li><a href=\"/my/settings/\">Account settings</a></li>\n\t\t\t\t\t<li><a
+        href=\"/my/tags/\">Tags</a></li>\n\t\t\t\t\t<li><a href=\"/my/albums/\">Albums</a></li>\n\t\t\t\t\t<li><a
+        href=\"/my/ratings/\">Ratings</a></li>\n\t\t\t\t\t<li><a href=\"/my/uploads/\">Gallery
+        uploads</a></li>\n\t\t\t\t\t<li><a href=\"/my/wtf/\">WhatTheFont forum posts</a></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        id='header_sign_out'><a href=\"https://www.myfonts.com/secure/logout/\">Sign
+        out</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t\t<div id='header_cart'>\n\t\t\t<a
+        href='/cart/' class='opener'><img src=\"/s/images/layout/options-cart.gif\"
+        alt='cart' id=\"cart_image\">\n<span id='cart_text'>0 items, $0.00</span></a>\n<script
+        type='text/javascript'>\n\twindow.mfCartSkuSetIDs = $A([  ]);\n\twindow.mfCartDesktopSkuSetIDs
+        = $A([  ]);\n\twindow.mfCartWebfontSkuSetIDs = $A([  ]);\n\n\twindow.mfCartTotals
+        = $H({\n\t\t\t'cart_subtotal': \"<span class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_tax':
+        \"<span class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_shipping': \"<span
+        class='regular-price'>N\\/A<\\/a>\",\t\t\t'cart_total': \"<span class='regular-price'>N\\/A<\\/a>\"\t\t});\n\n\twindow.mfSkuSetPrices
+        = $H({\n\t\t});\n\n\t\n\tupdateCartPricesOnPage();\n\n</script>\n<script type='text/javascript'>Behaviour.apply('cart');</script>\n\n\t\t</div>\n\t\t<div
+        id='header_help'>\n\t\t\t<a href='/help/'><img src=\"http://cdn.myfonts.net/s/images/layout/options-help.gif\"
+        width=\"10\" height=\"16\" border=\"0\" alt='help'>\n\t\t\tHelp</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        id='header_logotype'>\n\t\t<a href='/'>\n<img src='/s/images/logo/header_logo.png'
+        width='' height='' id='header_logo_img'>\n\n<script type='text/javascript'>\n\nif(window.devicePixelRatio!==undefined
+        && window.devicePixelRatio>1)\n\t$('header_logo_img').src = '/s/images/logo/header_logo_ret.png';\n\n</script>\n\n\n\t</div>\n\t\n\t<div
+        class=\"main_tab header_tab\" id=\"fonts_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/fonts/\">Find Fonts</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t\t\t\t<li><a
+        href='/search/'>Advanced Search</a></li>\n\t        <li><a href=\"/whatsnew/\">What&rsquo;s
+        New</a></li>\n\t\t\t<li><a href=\"/bestsellers/\">Best Sellers</a></li>\n\t\t\t<li><a
+        href=\"/hotnewfonts/\">Hot New Fonts</a></li>\n\t\t\t<li><a href=\"/search/is_webfont:true/fonts/\">Webfonts</a></li>\n\t\t\t<li><a
+        href=\"/WhatTheFont/\">WhatTheFont</a></li>\n\t\t\t<li><a href=\"/tags/\">Tags</a></li>\n\t\t\t<li><a
+        href=\"/languages/\">Languages</a></li>\n\t\t\t<li><a href=\"/category/\">Typographic
+        Categories</a></li>\n\t\t\t<li><a href=\"/specials/\">Special Offers</a></li>\n\t\t\t\t\t\t<li><a
+        href=\"/random/family/271813330\">Surprise Me</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"wtf_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/WhatTheFont/\">WhatTheFont</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t<li><a
+        href=\"/WhatTheFont/\">WhatTheFont</a></li>\n\t\t\t<li><a href=\"/WhatTheFont/forum/\">WhatTheFont
+        Forum</a></li>\n\t\t\t<li><a href='/WhatTheFont/mobile/'>WhatTheFont Mobile</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"more_tab\">\n\t\t<a class=\"main_tab header_tab\"
+        href=\"/more/\">More</a><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/header_menu_arrow.png'
+        alt='menu arrow' class='menu_arrow'>\n\t\t<ul class='nav_menu'>\n\t\t\t\t\t\t<li><a
+        href='http://webfonts.myfonts.com/'>Webfont Showcase</a></li> \n\t\t\t\t\t\t<li><a
+        href='/fontmap/'>Live Sales Map</a></li> \n\t\t\t<li><a href='http://www.facebook.com/pages/MyFonts/176253978685'>Facebook</a></li>
+        \n\t\t\t<li><a href='http://twitter.com/MyFonts'>Twitter</a></li> \n\t\t\t<li><a
+        href='https://www.myfonts.com/secure/giftcerts/'>Gift Certificates</a></li>\n\t\t\t<li><a
+        href='/games/tag/'>The Tag Game</a></li> \n\t\t\t<li><a href='/newsletters/'>Newsletters</a></li>\n\t\t\t<li><a
+        href='/feedback/'>Feedback</a></li>\n\t\t\t<li><a href='/Contact'>Contact
+        us</a></li>\n\t\t\t<li><a href='/info/prospectus/'>Sell Your Fonts</a></li>\n\t\t\t<li><a
+        href='/affiliate/'>Affiliate Program</a></li>\n\t\t\t\t\t\t\t\t\t\t\t\t<li><a
+        href='/about/'>About Us</a></li>\n\t\t\t<li><a href='/jobs/'>Jobs</a></li>\n\t\t\t<li><a
+        href='/info/terms-and-conditions/'>Fine Print &amp; Privacy Policy</a></li>\n\t\t</ul>\n\t</div>\n\n\t<div
+        class=\"main_tab header_tab\" id=\"search_tab\">\n\t\t<form id='header_search_form'
+        method='get' action='/search'>\n\t\t\t<input id=\"search_box\" name=\"q\"
+        size=\"15\" type=\"text\" placeholder=\"Search\"><input type='image' id=\"search_button\"
+        src=\"http://cdn.myfonts.net/s/images/layout/search_go-roll.png\" value=\"go\"
+        alt='go'>\n\t \t</form>\n\t</div>\n</div>\n\n<div id='myfontsBody'>\n\n\n<script
+        type='text/javascript'>Behaviour.apply('header');</script>\n<div id='foundry_page'>\n\n\t<h1><img
+        \ class=\"fontsample\" src=\"http://origin.myfonts.net/118/fs/u/86/0be5d47329582f5123d5ade1d3babb.gif\"
+        style=\"border-style:none;width:560px;height:56px;\" alt=\"Letterhead Studio-YG\"
+        title=\"Letterhead Studio-YG\"></h1>\n\n\n\n\n<div id='foundry_always' class=\"columns
+        two_column_layout\">\n\n\t<div class=\"main_column\">\n\n\t\t<div class='autobox
+        biography'>\n\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<div id='foundry_full_article'
+        style='display:none'><p>Moscow designers call Letterhead Studio &#8220;Russian
+        Emigre&#8221;: we make both fonts and design with own fonts. The studio is
+        started in 1998 by <a href=\"/person/gordon/yuri/\">Yuri Gordon</a>, Valery
+        Golyzhenkov and Olga Vassilkova. We work in graphic design, branding and type
+        design. Our collection of Cyrillic fonts includes more than 330 faces, generally
+        it is display fonts.\r</p>\n<p>Letterhead Studio, one of leading developers
+        of custom-made fonts, lettering and digital calligraphy in Russia. Among clients
+        of studio: magazines like Rolling Stone, Esquire, GQ, Empire, Interni, Harpers
+        Bazaar. Also we develop corporate fonts, more often for banks. Letterhead
+        co-operated with Gazprombank, Rosbank, the Alpha-group, Trust, Menatep, Orgres-Nordea
+        and others.</p></div>\n\t\t\t\t\t<div id='foundry_short_article'><p>Moscow
+        designers call Letterhead Studio &#8220;Russian Emigre&#8221;: we make both
+        fonts and design with own fonts. The studio is started in 1998 by <a href=\"/person/gordon/yuri/\">Yuri
+        Gordon</a>, Valery Golyzhenkov and Olga Vassilkova. We work in graphic design,
+        branding and type design. Our collection of Cyrillic fonts includes more than
+        330 faces, generally it is display fonts.</p></div>\n\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t<p
+        class='hideme'><a href='?details' class='moreinfo'>More info&hellip;</a></p>\n\t\t\t\t\t\t\n\t\t</div>\n\n\t</div>\n\t\t\t\t\n\t<div
+        class=\"side_column\"> \n\n\t\t\t\n\t\t\n\t</div>\n\n</div>\n\n<div id='foundry_info'
+        class=\"columns two_column_layout\" style='display:none'>\n\n\t<div class=\"main_column\">\n\n\t\t<div
+        class='autobox biography clearfix'>\n\t\t\t\t\n\t\t\t\t\t\t<div class='infobox
+        infobox_1'>\n\t\t\t\t<h3>Foundry details</h3>\n\n\n\n\t\t\t\t<ul>\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<li><b>Location:</b><br>\n\t\t\t\t\t\t<strong><a
+        href=\"http://www.letterhead.ru/\" target='_blank'>Letterhead Studio (Yuri
+        Gordon)</a></strong><br>\n\t\t\t\t\t\tMikhalkovskaja Str., 7, off. 22<br>\t\t\t\t\t\t\t\t\t\t\t\tMoscow,
+        <br>\n\t\t\t\t\t\tRussia<br>\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+        \   \t\t\t\t\t</li>\n\n\t\t\t\t</ul>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t<div
+        id='foundry_designers'><a name='designers'></a>\n\n\t\t\t\t<h3>Designers with
+        fonts from Letterhead Studio-YG</h3>\n\n\n\t\t\t\t\t\n\t\t\t\t<ul class='tag_cloud_list'>\t\t\t\t\t<li
+        style='font-size:11px'><a href='/person/gordon/yuri/'>Yuri&nbsp;Gordon</a></li>\n\t\t\t\t</ul>\n\n\t\t\t</div>\n\n\t\t\t\n\t\t</div>\t\t\n\t</div>\n\t<div
+        class='side_column'>\n\n\t\t<div id='foundry_geomap'>\n\t\n<div style=\"position:relative;width:200px;height:105px\">\n\t<img
+        src=\"http://cdn.myfonts.net/s/w/geomap/Kavrayskiy_VII-cropped-small.png\"
+        alt=\"map\" style=\"width:200px;height:105px\">\n\t<img src=\"http://cdn.myfonts.net/s/w/geomap/pin.png\"
+        class='ie_alpha_hack' alt='pin' style=\"position:absolute; left:109px; top:7px;\">\n</div>\n\t</div>\n\n\t</div>\n\n</div>\n\t\n\n\n<div
+        id='foundry_font_list'>\n\n\t\t\t\t\t\t\t\n\t<h3>15 font families from Letterhead
+        Studio-YG</h3>\n\n\n\t\n\t<div class=\"columns two_column_layout\">\n\t\n\t\t<div
+        class=\"main_column\">\n\t\t\t<div class='searchresultsWidget'>\n\t<div id='searchresultsdummy'
+        style='display:none'></div>\n\n\t\n\t\n\t<div id=\"testdrive_controls\" class=\"stick_to_top\">\n\n<script>
+        var radio_off='&#x25A2;', radio_on='&#x25A3;'; </script>\n\n<ul id='testdrive_switch'>\n\t<li
+        id='testdrive_mode_desktop'  class='selected'><span class='radio'>&#x25A3;</span>
+        Choose your own sample text</li>\n\t<li id='testdrive_mode_webfont' ><span
+        class='radio'>&#x25A2;</span> Webfont browser screenshots</li>\n</ul>\n\n<div
+        id='testdrive_desktop_controls' >\n\n\t<div id='testdrive_sampletext_cell'>\n\t\t<div
+        class='widget dropdown_widget clearfix' id=\"sampletext_dropdown_widget\">\n\t<!--
+        this invisible select will control the document flow -->\n\t<select name='sampletext_dropdown_fake_select'
+        id='sampletext_dropdown' class='dropdown_fake_select'><option></option></select>\n\n\t<!--
+        everything else is absolutely positioned, outside the document flow -->\n\t\t\t<input
+        class='dropdown_text opener' type='text' name='sampletext_dropdown_textvalue'
+        value=\"pangram.auto\" id=\"sampletext_dropdown_textvalue\"><div class='dropdown_button
+        opener'></div>\n\t\t<input class='dropdown_shortlist' type='text' name='sampletext_dropdown_shortlist'
+        value=\"\" id=\"sampletext_dropdown_shortlist\">\n\t\t<div class=\"dropdown_menu
+        show_long \" id='sampletext_dropdown_menu' style='display:none'>\n\t\t<div
+        class='scroller'>\n\t\t\t<ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        custom'>Enter your own text&hellip;</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='optgroup'>Basic text strings</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"fontname\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Font
+        names</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        indent'><label><input type='radio' name='sampletext_dropdown_options[]' \n\t\t\t\t\t\tvalue=\"abc\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span
+        class='item_value'>AaBbCc&hellip;</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$AB\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>ABCDE&hellip;</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$ab\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>abcde&hellip;</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$01\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>0123456789</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$quick\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>The
+        quick brown fox&hellip;</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$Lorem\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Lorem
+        ipsum&hellip;</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$lig\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>ff
+        fi fl ffi ffl st ct</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"$punc\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Punctuation</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='optgroup'>Random text strings</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"news\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>News
+        headlines</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"quote.King James Bible\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span
+        class='item_value'>King James Bible verses</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"quote.Shakespeare\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span
+        class='item_value'>Shakespeare lines</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"addy\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Street
+        addresses</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='optgroup'>News feeds</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        indent custom'>Enter your own RSS feed&hellip;</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"news.New York Times\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span
+        class='item_value'>New York Times</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"news.BBC News\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>BBC
+        News</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        indent'><label><input type='radio' name='sampletext_dropdown_options[]' \n\t\t\t\t\t\tvalue=\"news.Reuters\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span
+        class='item_value'>Reuters</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"news.FOX News\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>FOX
+        News</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        indent'><label><input type='radio' name='sampletext_dropdown_options[]' \n\t\t\t\t\t\tvalue=\"news.The
+        Onion\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>The Onion</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='optgroup'>Pangrams</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li class='option
+        indent'><label><input type='radio' name='sampletext_dropdown_options[]' \n\t\t\t\t\t\tvalue=\"pangram.auto\"\n\t\t\t\t\t\tchecked='checked'>\n\t\t\t\t\t\t<span
+        class='item_value'>Pangrams</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.1\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>English</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.2\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Français
+        (French)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.3\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Deutsch
+        (German)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.4\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Italian</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.5\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Español
+        (Spanish)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.6\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Dutch</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.7\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Русский
+        (Russian)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.9\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Hungarian</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.10\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>日本語
+        (Japanese)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.13\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Swedish</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.22\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>العربية
+        (Arabic)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.74\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>čeština
+        (Czech)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.75\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Danish</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.89\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Greek
+        (Monotonic)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.144\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Icelandic</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.146\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Hebrew</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.203\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Latin</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.214\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Lithuanian</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.266\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Esperanto</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.281\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>polski
+        (Polish)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.289\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Romanian</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.305\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Slovak</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.347\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Turkish</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class='option indent'><label><input type='radio' name='sampletext_dropdown_options[]'
+        \n\t\t\t\t\t\tvalue=\"pangram.382\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t<span class='item_value'>Norwegian
+        (Bokmal)</span></label></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t</div>\n\t\t<!--\n\t\t<div
+        class='buttons'>\n\t\t\t<input type='button' class='cancel' value='Cancel'>\n\t\t\t<input
+        type='button' class='save' value='Save'>\n\t\t</div>\n\t\t-->\n\t</div>\n</div><script
+        type='text/javascript'>Behaviour.apply('dropdown');</script>\n\n\t</div>\n\n\t<div
+        id='testdrive_slider_cell' class='punchdown'>\n\t\n<div class='size_slider_widget'
+        id='testdrive_slider'>\n\t<div class='size_slider_track'>\n\t\t<div class='size_slider_shoutout'
+        style='display:none'><span>999pt</span><div class='pointy'></div></div>\n\t\t<img
+        class='size_slider_ball' src='http://cdn.myfonts.net/s/w/testdrive/slider-ball.gif'
+        alt='size'>\n\t</div>\n</div>\n\t</div>\n\n\t<div id='testdrive_fit_cell'
+        class='punchdown'><label><input type='checkbox' name='goodies[]' value='fit'>
+        Fit to width</label></div>\n\n\t<div class='testdrive_spinner' style='display:none;'><img
+        src='http://cdn.myfonts.net/s/images/iconsets/myfonts/spinner.gif' alt='...'></div>\n\n\t\t<div
+        id='testdrive_opentype' class='menu_trigger' title='Advanced typography'>\n\t\t<img
+        src='http://cdn.myfonts.net/s/w/testdrive/advanced.gif' alt='Advanced typography'
+        class='menu_icon'>\n\t\t<div class='menu_pane'><ul id='testdrive_ot_feature_list'>\n\t\t\t\t\t<li>Basic
+        typesetting<br>\n\t\t\t<ul>\n\t\t\t\t\t\t\t<li><label><input type='checkbox'
+        name='goodies[]' value='ot.calt'> Contextual Alternates</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.clig'> Contextual Ligatures</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.jalt'> Justification Alternatives</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.liga'> Standard Ligatures</label></li>\n\t\t\t\t\t\t</ul></li>\n\t\t\t\t\t<li>Letter
+        case<br>\n\t\t\t<ul>\n\t\t\t\t\t\t\t<li><label><input type='checkbox' name='goodies[]'
+        value='ot.case'> Case-Sensitive Forms</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.smcp'> Small Capitals</label></li>\n\t\t\t\t\t\t</ul></li>\n\t\t\t\t\t<li>Numerals
+        and scientific typesetting<br>\n\t\t\t<ul>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.frac'> Fractions</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.onum'> Old Style Figures</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.pnum'> Proportional Figures</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.sinf'> Scientific Inferiors</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.subs'> Subscript</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.sups'> Superscript</label></li>\n\t\t\t\t\t\t</ul></li>\n\t\t\t\t\t<li>Typographic
+        variants<br>\n\t\t\t<ul>\n\t\t\t\t\t\t\t<li><label><input type='checkbox'
+        name='goodies[]' value='ot.cswh'> Contextual Swash</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.dlig'> Discretionary Ligatures</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.hist'> Historical Forms</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.hlig'> Historical Ligatures</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.ornm'> Ornaments</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.salt'> Stylistic Alternates</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.ss01'> Stylistic Set 01</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.ss02'> Stylistic Set 02</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.ss03'> Stylistic Set 03</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.swsh'> Swash</label></li>\n\t\t\t\t\t\t\t<li><label><input
+        type='checkbox' name='goodies[]' value='ot.titl'> Titling</label></li>\n\t\t\t\t\t\t</ul></li>\n\t\t\t\t</ul></div>\n\t</div>\n\t\n\t<div
+        id='testdrive_color_squares' class='menu_trigger' title='Color picker'>\n\t\t<div
+        class='color_square opener' id='testdrive_bg_square'></div>\n\t\t<div class='color_square
+        opener' id='testdrive_fg_square'></div>\n\t\t<div class='menu_pane colormenu'><div
+        class='widget colorwheel_widget ' style='' id='testdrive_colorwheel'>\n\t<img
+        src='http://cdn.myfonts.net/s/w/colorwheel/wheel.png' alt='color wheel'>\n</div><script
+        type='text/javascript'>Behaviour.apply('colorwheel');</script>\n</div>\n\t</div>\n\n</div>\n\n<div
+        id='testdrive_webfont_controls' style='display:none'>\n\t<div class='punchdown'
+        id='testdrive_webfont_browsers'>\n\t\t<select name=\"browser[]\">\n<option
+        label=\"Select browser...\" value=\"0\">Select browser...</option>\n<optgroup
+        label=\"Mac OS X\">\n<option label=\"Mac OS X Firefox 3.6\" value=\"mac_106_firefox_3_6\">Mac
+        OS X Firefox 3.6</option>\n<option label=\"Mac OS X Safari 5\" value=\"mac_106_safari_5_0\">Mac
+        OS X Safari 5</option>\n</optgroup>\n<optgroup label=\"Windows 7\">\n<option
+        label=\"Windows 7 Chrome\" value=\"windows_7_chrome\">Windows 7 Chrome</option>\n<option
+        label=\"Windows 7 Firefox 3.6\" value=\"windows_7_firefox_3_6\">Windows 7
+        Firefox 3.6</option>\n<option label=\"Windows 7 Firefox 3.5\" value=\"windows_7_firefox_3_5\">Windows
+        7 Firefox 3.5</option>\n<option label=\"Windows 7 Internet Explorer 8\" value=\"windows_7_msie_8_0\">Windows
+        7 Internet Explorer 8</option>\n<option label=\"Windows 7 Safari 5\" value=\"windows_7_safari_5_0\">Windows
+        7 Safari 5</option>\n</optgroup>\n<optgroup label=\"Windows Vista\">\n<option
+        label=\"Windows Vista Chrome\" value=\"windows_vista_chrome\">Windows Vista
+        Chrome</option>\n<option label=\"Windows Vista Firefox 3.6\" value=\"windows_vista_firefox_3_6\">Windows
+        Vista Firefox 3.6</option>\n<option label=\"Windows Vista Internet Explorer
+        8\" value=\"windows_vista_msie_8_0\">Windows Vista Internet Explorer 8</option>\n<option
+        label=\"Windows Vista Internet Explorer 7\" value=\"windows_vista_msie_7_0\">Windows
+        Vista Internet Explorer 7</option>\n<option label=\"Windows Vista Safari 5\"
+        value=\"windows_vista_safari_5_0\">Windows Vista Safari 5</option>\n</optgroup>\n<optgroup
+        label=\"Windows XP\">\n<option label=\"Windows XP Chrome\" value=\"windows_xp_chrome\">Windows
+        XP Chrome</option>\n<option label=\"Windows XP Firefox 3.6\" value=\"windows_xp_firefox_3_6\">Windows
+        XP Firefox 3.6</option>\n<option label=\"Windows XP Internet Explorer 8\"
+        value=\"windows_xp_msie_8_0\">Windows XP Internet Explorer 8</option>\n<option
+        label=\"Windows XP Internet Explorer 7\" value=\"windows_xp_msie_7_0\">Windows
+        XP Internet Explorer 7</option>\n<option label=\"Windows XP Internet Explorer
+        6\" value=\"windows_xp_msie_6_0\">Windows XP Internet Explorer 6</option>\n<option
+        label=\"Windows XP Safari 5\" value=\"windows_xp_safari_5_0\">Windows XP Safari
+        5</option>\n</optgroup>\n</select>\n\n\t\t<select name=\"browser[]\">\n<option
+        label=\"Compare to...\" value=\"0\">Compare to...</option>\n<optgroup label=\"Mac
+        OS X\">\n<option label=\"Mac OS X Firefox 3.6\" value=\"mac_106_firefox_3_6\">Mac
+        OS X Firefox 3.6</option>\n<option label=\"Mac OS X Safari 5\" value=\"mac_106_safari_5_0\">Mac
+        OS X Safari 5</option>\n</optgroup>\n<optgroup label=\"Windows 7\">\n<option
+        label=\"Windows 7 Chrome\" value=\"windows_7_chrome\">Windows 7 Chrome</option>\n<option
+        label=\"Windows 7 Firefox 3.6\" value=\"windows_7_firefox_3_6\">Windows 7
+        Firefox 3.6</option>\n<option label=\"Windows 7 Firefox 3.5\" value=\"windows_7_firefox_3_5\">Windows
+        7 Firefox 3.5</option>\n<option label=\"Windows 7 Internet Explorer 8\" value=\"windows_7_msie_8_0\">Windows
+        7 Internet Explorer 8</option>\n<option label=\"Windows 7 Safari 5\" value=\"windows_7_safari_5_0\">Windows
+        7 Safari 5</option>\n</optgroup>\n<optgroup label=\"Windows Vista\">\n<option
+        label=\"Windows Vista Chrome\" value=\"windows_vista_chrome\">Windows Vista
+        Chrome</option>\n<option label=\"Windows Vista Firefox 3.6\" value=\"windows_vista_firefox_3_6\">Windows
+        Vista Firefox 3.6</option>\n<option label=\"Windows Vista Internet Explorer
+        8\" value=\"windows_vista_msie_8_0\">Windows Vista Internet Explorer 8</option>\n<option
+        label=\"Windows Vista Internet Explorer 7\" value=\"windows_vista_msie_7_0\">Windows
+        Vista Internet Explorer 7</option>\n<option label=\"Windows Vista Safari 5\"
+        value=\"windows_vista_safari_5_0\">Windows Vista Safari 5</option>\n</optgroup>\n<optgroup
+        label=\"Windows XP\">\n<option label=\"Windows XP Chrome\" value=\"windows_xp_chrome\">Windows
+        XP Chrome</option>\n<option label=\"Windows XP Firefox 3.6\" value=\"windows_xp_firefox_3_6\">Windows
+        XP Firefox 3.6</option>\n<option label=\"Windows XP Internet Explorer 8\"
+        value=\"windows_xp_msie_8_0\">Windows XP Internet Explorer 8</option>\n<option
+        label=\"Windows XP Internet Explorer 7\" value=\"windows_xp_msie_7_0\">Windows
+        XP Internet Explorer 7</option>\n<option label=\"Windows XP Internet Explorer
+        6\" value=\"windows_xp_msie_6_0\">Windows XP Internet Explorer 6</option>\n<option
+        label=\"Windows XP Safari 5\" value=\"windows_xp_safari_5_0\">Windows XP Safari
+        5</option>\n</optgroup>\n</select>\n\n\t</div>\t\n\n\t<div class='testdrive_spinner'
+        style='display:none;'><img src='http://cdn.myfonts.net/s/images/iconsets/myfonts/spinner.gif'
+        alt='...'></div>\n\n</div>\n\n\t<div id='testdrive_goodies' class='menu_trigger'
+        title='Test drive options'>\n\t\t<img src='http://cdn.myfonts.net/s/w/testdrive/options.gif'
+        alt='Sample options' class='menu_icon'>\n\t\t<div class='menu_pane'><table
+        cellspacing='0' cellpadding='0' border='0'>\n\t\t\t\t\t<tr class='hide_for_webfonts'><td
+        class='icon'><input type='checkbox' name='goodies[]' value='single' id='td_opts_single'></td>\n\t\t\t\t<td
+        class='label'><label for='td_opts_single'>Don&rsquo;t change text<br> between
+        samples</label></td>\n\t\t\t</tr>\n\t\t\t\t\t<tr class='hide_for_webfonts'><td
+        class='icon'><input type='checkbox' name='goodies[]' value='ext' id='td_opts_ext'></td>\n\t\t\t\t<td
+        class='label'><label for='td_opts_ext'>Wrap sample text</label></td>\n\t\t\t</tr>\n\t\t\t\t\t<tr
+        class='hide_for_webfonts'><td class='icon'><a class='testdrive_shuffle' href='.'><img
+        src='http://cdn.myfonts.net/s/w/testdrive/shuffle.png' alt='shuffle' class='menu_item_icon'></a></td>\n\t\t\t\t<td
+        class='label'><a class='testdrive_shuffle' href='.'>Shuffle</a></td>\n\t\t\t</tr>\n\t\t\t<tr><td
+        class='icon'><img src='http://cdn.myfonts.net/s/w/testdrive/permalink.png'
+        alt='link' class='menu_item_icon'></td>\n\t\t\t\t<td class='label'><a id='testdrive_permalink'
+        href='.'>Permalink</a> to these settings</td>\n\t\t\t</tr>\n\t\t\t<tr><td
+        class='icon'><a class='testdrive_reset' href='.'><img src='http://cdn.myfonts.net/s/w/testdrive/reset.png'
+        alt='reset' class='menu_item_icon'></a></td>\n\t\t\t\t<td class='label'><a
+        class='testdrive_reset' href='.'>Reset all settings</a></td>\n\t\t\t</tr>\n\t\t</table></div>\n\t</div>\n\n\t<div
+        id='testdrive_controls_loading'><div>Loading&hellip;</div></div>\n\n</div>\n\n<script
+        type='text/javascript'>\n\twindow.TESTDRIVE_DEFAULTS = {\"seed\":0,\"size\":72,\"text\":\"[Pangrams]\",\"fg\":\"000000\",\"bg\":\"ffffff\",\"src\":\"pangram.auto\",\"tab\":\"desktop\",\"goodies\":\"ot.liga\",\"browser\":[\"mac_106_firefox_3_6\"]};\n\twindow.TESTDRIVE_PARAMS
+        = {\"seed\":0,\"size\":72,\"text\":\"[Pangrams]\",\"fg\":\"000000\",\"bg\":\"ffffff\",\"src\":\"pangram.auto\",\"tab\":\"desktop\",\"goodies\":\"ot.liga\",\"browser\":[\"mac_106_firefox_3_6\"]};\n</script><script
+        type='text/javascript'>Behaviour.apply('testdrive');</script>\n\n\t\n\t\n\t\t\t\t\n\t\n\t\n\t\n\t\t\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_1' id='anchor_uid_20099689'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/conqueror-sans/\">Conqueror Sans™</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 18 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/conqueror-sans/\"><img src='http://cdn.myfonts.net/s/aw/110x110/74/0/38132.png'
+        alt=\"Conqueror Sans™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$561</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+99689\"  id=\"addToAlbum_FontFamily_99689\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/conqueror-sans/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/77/201c8ef9c5ff3bf7da377b75878596.gif\"
+        style=\"border-style:none;width:558px;height:68px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_2' id='anchor_uid_20111745'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/mr-mixter/\">Mr Mixter</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/mr-mixter/\"><img src='http://cdn.myfonts.net/s/aw/110x110/132/0/67837.png'
+        alt=\"Mr Mixter\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$34</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+111745\"  id=\"addToAlbum_FontFamily_111745\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/mr-mixter/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/114/fs/u/50/06f9d8a9f847db5deed56527d7fbf0.gif\"
+        style=\"border-style:none;width:594px;height:58px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_3' id='anchor_uid_20092482'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/fa-rer/\">FaRer™</a><a class='web_badge' href='/info/webfonts/'><img
+        src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif' alt='WEB'
+        ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 2 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/fa-rer/\"><img src='http://cdn.myfonts.net/s/aw/110x110/54/0/27926.png'
+        alt=\"FaRer™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$19</span>&ndash;<span
+        class='regular-price'>$34</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+92482\"  id=\"addToAlbum_FontFamily_92482\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/fa-rer/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/eb/6b6e00ff329d0de8b95fbdf8b7d046.gif\"
+        style=\"border-style:none;width:596px;height:70px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_4' id='anchor_uid_20105550'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/21-cent/\">21 Cent</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 10 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/21-cent/\"><img src='http://cdn.myfonts.net/s/aw/110x110/99/0/50934.png'
+        alt=\"21 Cent\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$383</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+105550\"  id=\"addToAlbum_FontFamily_105550\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/21-cent/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/11/f46cc49d35d0308e6230598800f99a.gif\"
+        style=\"border-style:none;width:566px;height:68px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_5' id='anchor_uid_20120765'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/red-ring/\">Red Ring™</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 5 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/red-ring/\"><img src='http://cdn.myfonts.net/s/aw/110x110/168/0/86192.png'
+        alt=\"Red Ring™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$169</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+120765\"  id=\"addToAlbum_FontFamily_120765\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/red-ring/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/5b/dc4cce7a1880025c45c7170d198381.gif\"
+        style=\"border-style:none;width:580px;height:68px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_6' id='anchor_uid_20095819'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/costa-brava/\">Costa Brava</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/costa-brava/\"><img src='http://cdn.myfonts.net/s/aw/110x110/60/0/30987.png'
+        alt=\"Costa Brava\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$15</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+95819\"  id=\"addToAlbum_FontFamily_95819\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/costa-brava/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/116/fs/u/72/af22e8e29c6ef9ea4382f3c166d511.gif\"
+        style=\"border-style:none;width:584px;height:72px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_7' id='anchor_uid_20100478'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/conqueror-slab/\">Conqueror Slab™</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 12 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/conqueror-slab/\"><img src='http://cdn.myfonts.net/s/aw/110x110/78/0/40256.png'
+        alt=\"Conqueror Slab™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$420.75</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+100478\"  id=\"addToAlbum_FontFamily_100478\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/conqueror-slab/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/116/fs/u/11/99a8f6e39efbc0705cdab8ab036904.gif\"
+        style=\"border-style:none;width:566px;height:76px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_8' id='anchor_uid_20095820'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/costa-dorada/\">Costa Dorada</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/costa-dorada/\"><img src='http://cdn.myfonts.net/s/aw/110x110/60/0/30990.png'
+        alt=\"Costa Dorada\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$15</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+95820\"  id=\"addToAlbum_FontFamily_95820\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/costa-dorada/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/d4/e37ce2255a596157777eaa896d2617.gif\"
+        style=\"border-style:none;width:596px;height:86px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_9' id='anchor_uid_20100526'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/conqueror-display/\">Conqueror Display</a><a
+        class='web_badge' href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 12 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/conqueror-display/\"><img src='http://cdn.myfonts.net/s/aw/110x110/78/0/40427.png'
+        alt=\"Conqueror Display\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$391.50</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+100526\"  id=\"addToAlbum_FontFamily_100526\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/conqueror-display/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/fb/b4edfc0bc19a294576d2dec0bebfe3.gif\"
+        style=\"border-style:none;width:578px;height:76px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_10' id='anchor_uid_20120770'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/red-square/\">Red Square™</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 5 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/red-square/\"><img src='http://cdn.myfonts.net/s/aw/110x110/168/0/86194.png'
+        alt=\"Red Square™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$40</span>&ndash;<span
+        class='regular-price'>$150</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+120770\"  id=\"addToAlbum_FontFamily_120770\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/red-square/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/90/8a6c8dfc79d4fc4fd70596b3214690.gif\"
+        style=\"border-style:none;width:574px;height:68px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_11' id='anchor_uid_20114327'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/baroque-mortale/\">Baroque Mortale</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/baroque-mortale/\"><img src='http://cdn.myfonts.net/s/aw/110x110/139/0/71678.jpg'
+        alt=\"Baroque Mortale\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+114327\"  id=\"addToAlbum_FontFamily_114327\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/baroque-mortale/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/52/a33f0fea0bc5a4238cd77688a45cab.gif\"
+        style=\"border-style:none;width:594px;height:132px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_12' id='anchor_uid_20100483'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/conqueror-text/\">Conqueror Text™</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 12 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/conqueror-text/\"><img src='http://cdn.myfonts.net/s/aw/110x110/78/0/40259.png'
+        alt=\"Conqueror Text™\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$45</span>&ndash;<span
+        class='regular-price'>$391.50</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+100483\"  id=\"addToAlbum_FontFamily_100483\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/conqueror-text/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/116/fs/u/3f/901843438107f3da19e53328d3e876.gif\"
+        style=\"border-style:none;width:592px;height:76px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_13' id='anchor_uid_20096826'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/bistro/\">Bistro</a><a class='web_badge' href='/info/webfonts/'><img
+        src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif' alt='WEB'
+        ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/bistro/\"><img src='http://cdn.myfonts.net/s/aw/110x110/62/0/32197.png'
+        alt=\"Bistro\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$29</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+96826\"  id=\"addToAlbum_FontFamily_96826\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/bistro/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/114/fs/u/ef/74514a5339d928115fb6dcd0834564.gif\"
+        style=\"border-style:none;width:572px;height:58px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_14' id='anchor_uid_20096827'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/hot-sauce/\">Hot Sauce</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 1 font from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/hot-sauce/\"><img src='http://cdn.myfonts.net/s/aw/110x110/62/0/32199.png'
+        alt=\"Hot Sauce\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$29</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+96827\"  id=\"addToAlbum_FontFamily_96827\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/hot-sauce/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/118/fs/u/1e/9cdd36acd1a73696531384f5305ed5.gif\"
+        style=\"border-style:none;width:564px;height:64px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div
+        class='search-result-item has-image'>\n\n\t\t\t\t\t<a class='search-results-anchor'
+        name='item_15' id='anchor_uid_20091207'></a>\n\n\t\t\t\t\t<div class='leftstuff'>\n\t\t\t\t\t\t<h4><a
+        href=\"/fonts/letterheadrussia/anti-quasi/\">AntiQuasi</a><a class='web_badge'
+        href='/info/webfonts/'><img src='http://cdn.myfonts.net/s/images/webfonts/web-badge_single_flat.gif'
+        alt='WEB' ></a><script type='text/javascript'>Behaviour.apply('webfont_button');</script>\n</h4>\n\t\t\t\t\t\t<div
+        class='subtitle'>family of 15 fonts from <a href='/foundry/LHS-YG/'>Letterhead
+        Studio-YG</a></div>\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t\t\t<div class='product-image'>\n\t\t\t\t\t\t\t<a
+        href=\"/fonts/letterheadrussia/anti-quasi/\"><img src='http://cdn.myfonts.net/s/aw/110x110/98/0/50499.jpg'
+        alt=\"AntiQuasi\"></a>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class='price_tag_widget'><span class='regular-price'>$29</span>&ndash;<span
+        class='regular-price'>$445.50</span></span>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class='widget rollover_buttons clearfix'><a class=\"add_to_album mouseshow\"
+        href=\"?add_to_album=FontFamily+91207\"  id=\"addToAlbum_FontFamily_91207\"><img
+        alt='add to album' src=\"http://cdn.myfonts.net/s/w/rollover_buttons/add_to_album-roll.gif\"
+        class='rollover cart_button_small'></a></div><script type='text/javascript'>Behaviour.apply('rollover_buttons');</script>\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t<div
+        class='sample testdrive_container'>\n\t\t\t\t\t\t<a href=\"/fonts/letterheadrussia/anti-quasi/\"><img
+        \ class=\"fontsample liveupdate\" src=\"http://origin.myfonts.net/114/fs/u/f0/e50e826c27ea2a85b41113bd103e7e.gif\"
+        style=\"border-style:none;width:586px;height:72px;\" alt=\"Preview Image\"
+        title=\"Preview Image\"></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\n\n\t<script
+        type='text/javascript'>\n\t<!--\n\t//$('search_box').value = \"type:FontFamily
+        AND (foundry_id:313 OR original_foundry_id:313 OR owner_id:313)\";\n\t\n\t\t\n\t\t\t\t\twindow.searchresultsIPP
+        = 50;\n\t\t\twindow.searchresultsCount = 15;\n\t\t\twindow.searchresultsFirst
+        = 1;\n\t\t\twindow.searchresultsLast = 50;\n\t\n\t\t\twindow.searchresultsGalleryMode
+        = false;\n\n\t\t\tsearchresultsStartAutoLoading();\t\t\n\t\t\tvar tabs = false;\n\t\t\tif
+        (tabs) tabs = tabs.down('.local-tabs');\n\t\t\tif (tabs) \n\t\t\t{\n\t\t \t\t\t\t\tif
+        ((temp = tabs.down('.active')) && !temp.innerHTML.match(/\\(/))\n\t\t\t\t\ttemp.insert(\"
+        <span class='searchresults_tab_number'>(15)</span>\");\n\t\t\t\t\t\t}\n\t\t\telse\n\t\t\t\n\t\t\t{\n\t\t\t\tBehaviour.register({\n\t\t\t\t\t'div.side_column.align-with-tabs':
+        function(el) {\n\t\t\t\t\t\ttry {\n\t\t\t\t\t\t\tif (!el.previous('div.main_column').down('div.local-tabs'))\n\t\t\t\t\t\t\t{\n\t\t\t\t\t\t\t\tel.removeClassName('align-with-tabs');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}
+        catch(e) {}\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t}\n\t\t\t\n\n\t\t\twindow.searchresultsPost
+        = {\n\t\t\t\t\t\t\t\"widget\": \"searchresults\",\n\t\t\t\t\t\t\t\"q\": \"type:FontFamily
+        AND (foundry_id:313 OR original_foundry_id:313 OR owner_id:313)\",\n\t\t\t\t\t\t\t\"tabs\":
+        \"no\",\n\t\t\t\t\t\t\t\"qs\": \"no\",\n\t\t\t\t\t\t\t'view': \"list\",\t\t\t\t\t\t\t\t\t\t\t\t'url':
+        \"/foundry/LHS-YG/\",\n\t\t\t\t'searchtype': \"fonts\"\n\t\t\t};\n\t\t\n\t\t\twindow.searchresultsScript
+        = \"/widgets/searchresults/searchresults.php\";\n\n\t\t\t\t//-->\n\t</script>\t\t\n\t\n\t\n\n\n\t\n\t<div
+        id='listpage_view_options' class='put_in_sidebar stick_to_top'>\n\n\t\t<h3>View
+        options</h3>\n\n\n\n\t\t<ul>\n\n\t\t\t\t<li id='listpage_view_mode'><img src=\"http://cdn.myfonts.net/s/w/searchresults/view-list-on.gif\"
+        alt=\"list view\" class='view-list'><a href='?view=gallery&amp;sort='><img
+        src=\"http://cdn.myfonts.net/s/w/searchresults/view-gallery-off.gif\" alt=\"gallery
+        view\" class='view-gallery'></a></li>\n\n\t\t\t<li>Sort by <select name=\"sort\"
+        id=\"listpage_sort\">\n<option label=\"relevance\" value=\"score\">relevance</option>\n<option
+        label=\"best selling\" value=\"sales\">best selling</option>\n<option label=\"avg
+        customer rating\" value=\"mob\">avg customer rating</option>\n<option label=\"price
+        &ndash; low to high\" value=\"cheap\">price &ndash; low to high</option>\n<option
+        label=\"price &ndash; high to low\" value=\"bank\">price &ndash; high to low</option>\n<option
+        label=\"most recent\" value=\"new\">most recent</option>\n<option label=\"alphabetical\"
+        value=\"abc\">alphabetical</option>\n</select>\n</li>\t\n\t\t\n\t\t\t<li><a
+        href='#top_of_page'>&uarr; Return to top</a></li>\n\t\t\t\n\t\t</ul>\n\n\t</div>\n\n</div>\n\n<script
+        type='text/javascript'>Behaviour.apply('searchresults');</script>\n \n\t\t</div>\n\t\t\n\t\t<div
+        class=\"side_column\">\n\t\t\t<div class='autobox widget related_tags'>\n\n\t<h3>Related
+        tags</h3>\n\n\n\t\n\t\n<ul class='tag_cloud_widget'>\n\t<li style='font-size:24px'><a
+        href='/tags/serif/'>serif</a></li>\n\t\t<li style='font-size:23px'><a href='/tags/funny/'>funny</a></li>\n\t\t<li
+        style='font-size:22px'><a href='/tags/hand-drawn/'>hand-drawn</a></li>\n\t\t<li
+        style='font-size:22px'><a href='/tags/magazine/'>magazine</a></li>\n\t\t<li
+        style='font-size:22px'><a href='/tags/modern/'>modern</a></li>\n\t\t<li style='font-size:20px'><a
+        href='/tags/crazy/'>crazy</a></li>\n\t\t<li style='font-size:20px'><a href='/tags/candy/'>candy</a></li>\n\t\t<li
+        style='font-size:20px'><a href='/tags/wedge+serif/'>wedge&nbsp;serif</a></li>\n\t\t<li
+        style='font-size:20px'><a href='/tags/sharp/'>sharp</a></li>\n\t\t<li style='font-size:20px'><a
+        href='/tags/unique/'>unique</a></li>\n\t\t<li style='font-size:20px' class='xtra'><a
+        href='/tags/beach/'>beach</a></li>\n\t\t<li style='font-size:20px' class='xtra'><a
+        href='/tags/cyrillic/'>cyrillic</a></li>\n\t\t<li style='font-size:20px' class='xtra'><a
+        href='/tags/text/'>text</a></li>\n\t\t<li style='font-size:10px' class='xtra'><a
+        href='/tags/celebration/'>celebration</a></li>\n\t\t<li style='font-size:10px'
+        class='xtra'><a href='/tags/eclectic/'>eclectic</a></li>\n\t\t<li style='font-size:10px'
+        class='xtra'><a href='/tags/calligraphy/'>calligraphy</a></li>\n\t\t<li style='font-size:10px'
+        class='xtra'><a href='/tags/art+nouveau/'>art&nbsp;nouveau</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/workhorse/'>workhorse</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/ornament/'>ornament</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/coffee/'>coffee</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/festive/'>festive</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/ugly/'>ugly</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/kids/'>kids</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/sans-serif/'>sans-serif</a></li>\n\t\t<li
+        style='font-size:10px' class='xtra'><a href='/tags/comic/'>comic</a></li>\n\t\t\t<li
+        class='xtra_link'><a href='#' class='xtra_link'>More&hellip;</a></li>\n\t</ul><script
+        type='text/javascript'>Behaviour.apply('tag_cloud_box');</script>\n\n\n</div>\n\t\t</div>\n\t\t\n\t</div>\n</div>\n\n</div>\n\r\n<div
+        id='addToAlbumMenu' style='display:none'>\r\n    <div id=\"addToAlbumControls\">\r\n
+        \   \r\n\t\t<div id=\"addToAlbumMenuTitle\">Choose an album below, or <a id=\"createAlbum\"
+        href='#'>create a new album</a>.</div>\r\n\t\r\n\t\t<div id='addToAlbumMenuBody'>Loading...</div>\r\n\r\n\t\t<div
+        id='addToAlbumMenuCancel'><input class='cancel' type='button' value='Cancel'></div>\r\n\r\n
+        \   </div>    \r\n</div>\r\n\r\n<form method='post' action='/widgets/fontalbums/ajaxaddtoalbum.php'
+        id=\"addToAlbumMenuNewAlbum\" style=\"display: none;\">\r\n\t<input type='hidden'
+        name='aid' value='new'>\r\n\t<div class=\"smalltext\">New album name: <input
+        type='text' name='name'></div>\r\n\t<div><input type='submit' value='Create
+        album'> <input type='reset' id=\"newAlbumToggleClose\" value='Cancel'></div>\r\n</form>\r<script
+        type='text/javascript'>Behaviour.apply('fontalbums');</script>\n\n\n</div><!--
+        end myfontsBody -->\n<div id='myfontsFooter' class='robots-nocontent'>&nbsp;</div>\n</div><!--
+        end of myfonts_container -->\n\n<div id='myfontsLegal'>\n\tCopyright &copy;
+        1999-2012 MyFonts Inc. \n\t| <b><a href=\"/info/terms-and-conditions/#Privacy\">Privacy
+        Policy</a></b>\n\t| <a href=\"http://facebook.com/MyFonts\">Facebook</a>\n\t|
+        <a href=\"http://twitter.com/MyFonts\">Twitter</a>\n\t | <a href='#getshorturl'
+        id='footer_short_url'>Get short URL</a></div>\n\n\n\n\n\n\n<!--\nRuntime:
+        \    1.3891429901123 seconds \nFS requests: 21    \nDB queries:  192.168.30.200:
+        12\n             192.168.30.200:3307: 16\n             192.168.30.116: 14\n
+        \            192.168.30.118: 12\n                       \n-->\n\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Thu, 20 Dec 2012 14:33:34 GMT
+recorded_with: VCR 2.3.0
