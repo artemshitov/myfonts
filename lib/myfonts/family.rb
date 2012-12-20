@@ -45,8 +45,8 @@ module MyFonts
     end
 
     def get_foundry
-      links = dom.css("ul.family_metadata li a")
-      links.select{ |l| l.get_attribute("href") =~ /foundry/ }[0].text
+      foundry_link = dom.css("ul.family_metadata li a").select{ |l| l.get_attribute("href") =~ /foundry/ }[0]
+      Foundry.new(foundry_link.get_attribute("href"), foundry_link.text)
     end
 
     def get_faces

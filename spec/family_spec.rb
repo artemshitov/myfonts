@@ -14,8 +14,8 @@ describe MyFonts::Family do
     end
   end
 
-  it "returns correct foundry name" do
-    @family.foundry.should == "Letterhead Studio-YG"
+  it "returns correct foundry" do
+    @family.foundry.name.should == "Letterhead Studio-YG"
   end
 
   it "returns correct designers list" do
